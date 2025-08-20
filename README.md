@@ -61,10 +61,15 @@ jupyter notebook
 ## 📦 Dependencies 
 
 Python 3.12+ 🐍
+
 torch==2.8.0
+
 transformers==4.55.2
+
 tensorflow-macos==2.16.1
+
 tf-keras==2.19.0
+
 numpy
 
 ---
